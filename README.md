@@ -1,3 +1,3 @@
 # miPrimerRepositorio jayyy
 
-mi primer contribucion local para GitHubs
+mi primer contribucion local para GitHub
