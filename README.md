@@ -1,9 +1,5 @@
-# miPrimerRepositorio jayyy
+# miPrimerRepositorio
 
-mi primer contribucion local para GitHub
+MI PRIMERA CONTRIBUCION YUUUJUUYY
 
-lokita
-
-un commit mas desde GitHub
-
-Aprendiendo git FETCH
+MI PRIMERA CONTRIBUCION EN LOCAL
